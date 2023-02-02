@@ -1,0 +1,7 @@
+API key=6c5762e26264089fee02b959c6b5343b
+
+
+GET MOVIE DETAILS
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=<<api_key>>&language=en-US
+
+img {width:100%} means the image fits up to 100% width of the page.
